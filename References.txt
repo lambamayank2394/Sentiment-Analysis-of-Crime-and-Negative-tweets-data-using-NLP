@@ -4,3 +4,4 @@ NLTK documentation: https://www.nltk.org/
 Predicting Crime Using Twitter and Kernel Density Estimation:
 https://www.researchgate.net/publication/260314336_Predicting_Crime_Using_Twitter_and_Kernel_Density_Estimation
 Hate map: https://users.humboldt.edu/mstephens/hate/hate_map.html
+http://fjavieralba.com/basic-sentiment-analysis-with-python.html
