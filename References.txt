@@ -4,3 +4,10 @@ NLTK documentation: https://www.nltk.org/
 Predicting Crime Using Twitter and Kernel Density Estimation:
 https://www.researchgate.net/publication/260314336_Predicting_Crime_Using_Twitter_and_Kernel_Density_Estimation
 Hate map: https://users.humboldt.edu/mstephens/hate/hate_map.html
+http://fjavieralba.com/basic-sentiment-analysis-with-python.html
+Bing Liu, Minqing Hu and Junsheng Cheng. "Opinion Observer: Analyzing 
+;       and Comparing Opinions on the Web." Proceedings of the 14th 
+;       International World Wide Web conference (WWW-2005), May 10-14, 
+;       2005, Chiba, Japan.
+https://www.generatedata.com/
+https://marcobonzanini.com/2015/02/25/fuzzy-string-matching-in-python/
