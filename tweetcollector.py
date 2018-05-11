@@ -4,10 +4,10 @@ import json
 import csv
 import pandas as pd
 
-consumer_key = 'NScfytb3inyC26M5JrA7RLrbU'
-consumer_secret = 'ZuKVVJh80NN0W0vjmXA9Vmpp2RgTjlo372nZpIGg4ZVY0Xpcyj'
-access_token = '916904578490171392-rHr23i95aSfeQjnBmunr3dtHofvGeV4'
-access_secret = 'pZwQCTdnVpYAiZWo2u5ixLscm1N1vheuxX42OVIEdcUp0'
+consumer_key = ''
+consumer_secret = ''
+access_token = ''
+access_secret = ''
 count = 0
 
 class StdOutListener(StreamListener):
