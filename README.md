@@ -22,6 +22,6 @@ sentiment score. A positive sentiment score is taken as a positive tweet and a n
 Here in this part we are defining some columns that we used in our analysis for example: severity_index which shows the severity of the tweet. In this part we also upload the crime report data and perform fuzzy string matching between between the output negative tweets data and crime data. Since we don't have any common IDs between the crime data and tweets data we have to perform fuzzy string matching on twitter username + location and criminal name + location. We are picking a fuzzy score above 90% as a match. We are also defining alert status which is based on the users with high and med severity tweets and who don't yet have any criminal status.
 
 ### 4. Visualizations:
-In this section we for the final summaries and visualizations. we have prepared visualization using python and tableau.
+In this section we for the final summaries and visualizations. We have prepared visualization using python and tableau.
 
 This is the overall division of the code and an overall explanation of the flow of the code. We have tried to put in as much comments into our ipynb file as possible and have tried to make as self explanatory as possible.
