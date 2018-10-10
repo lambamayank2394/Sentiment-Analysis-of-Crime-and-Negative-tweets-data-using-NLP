@@ -1,5 +1,4 @@
 # Advanced Python for Data Science
-## Team 3 - Vivek, Anshul, Mayank
 ## Final Project
 ### Sentiment Analysis of Acrimonious Tweets using NLP
 
